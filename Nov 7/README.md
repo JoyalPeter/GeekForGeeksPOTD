@@ -1,19 +1,21 @@
-Sum of upper and lower triangles
-Nov 7
-Easy
+# Sum of upper and lower triangles
+## Nov 7
+### Easy
 
 Given a square matrix of size N*N, print the sum of upper and lower triangular elements. Upper Triangle consists of elements on the diagonal and above it. The lower triangle consists of elements on the diagonal and below it. 
 
-Example 1:
+### Example 1:
 
-Input:
+#### Input:
 N = 3 
 mat[][] = {{6, 5, 4},
            {1, 2, 5}
            {7, 9, 7}}
-Output: 
+
+#### Output: 
 29 32
-Explanation:
+
+#### Explanation:
 The given matrix is
 6 5 4
 1 2 5
@@ -28,15 +30,18 @@ The elements of lower triangle are
 1 2
 7 9 7
 Sum of these elements is 6+1+2+7+9+7= 32.
-Example 2:
 
-Input:
+### Example 2:
+
+#### Input:
 N = 2
 mat[][] = {{1, 2},
            {3, 4}}
-Output: 
+
+#### Output: 
 7 8
-Explanation:
+
+#### Explanation:
 Upper triangular matrix:
 1 2
   4
@@ -46,12 +51,12 @@ Lower triangular matrix:
 3 4
 Sum of these elements are 8.
 
-Your Task:
+### Your Task:
 You don't need to read input or print anything. Complete the function sumTriangles() that takes matrix and its size N as input parameters and returns the list of integers containing the sum of upper and lower triangle.
 
 Expected Time Complexity: O(N * N)
 Expected Auxiliary Space: O(1)
 
-Constraints: 
+### Constraints: 
 1 <= N <= 103
 1 <= matrix[i][j] <= 106
