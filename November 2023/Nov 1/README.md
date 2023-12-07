@@ -1,4 +1,4 @@
-# Frequencies of Limited Range Array Elements
+# [Frequencies of Limited Range Array Elements](https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1)
 ## Nov 1
 ### Easy
 
@@ -66,6 +66,6 @@ Expected time complexity: O(N)
 Expected auxiliary space: O(1)
 
 ### Constraints:
-1 ≤ N ≤ 105
-1 ≤ P ≤ 4*104 
+1 ≤ N ≤ 10**5
+1 ≤ P ≤ 4*10**4 
 1 <= arr[i] <= P

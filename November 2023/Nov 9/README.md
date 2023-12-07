@@ -1,4 +1,4 @@
-# Predict the Column
+# [Predict the Column](https://www.geeksforgeeks.org/problems/predict-the-column/1)
 ## Nov 9
 ### Easy
 
@@ -25,5 +25,5 @@ Expected Time Complexity: O(N * N)
 Expected Auxiliary Space: O(1)
 
 ### Constraints:
-1 <= N <= 103
+1 <= N <= 10**3
 0 <= A[i][j] <= 1

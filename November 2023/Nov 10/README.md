@@ -1,4 +1,4 @@
-# Number following a pattern
+# [Number following a pattern](https://www.geeksforgeeks.org/problems/number-following-a-pattern3126/1)
 ## Nov 10
 ### Medium
 

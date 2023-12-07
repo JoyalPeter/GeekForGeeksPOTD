@@ -1,4 +1,4 @@
-# Print Matrix in snake Pattern
+# [Print Matrix in snake Pattern](https://www.geeksforgeeks.org/problems/print-matrix-in-snake-pattern-1587115621/1)
 ## Nov 8
 ### Easy
 
@@ -58,5 +58,5 @@ Expected Time Complexity: O(N * N)
 Expected Auxiliary Space: O(N * N) for the resultant list only.
 
 ### Constraints:
-1 <= N <= 103
-1 <= mat[i][j] <= 109
+1 <= N <= 10**3
+1 <= mat[i][j] <= 10**9

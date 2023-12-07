@@ -1,4 +1,4 @@
-# Check if string is rotated by two places
+# [Check if string is rotated by two places](https://www.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places-1587115620/1)
 ## Nov 12
 ### Easy
 

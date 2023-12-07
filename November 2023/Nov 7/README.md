@@ -1,4 +1,4 @@
-# Sum of upper and lower triangles
+# [Sum of upper and lower triangles](https://www.geeksforgeeks.org/problems/sum-of-upper-and-lower-triangles-1587115621/1)
 ## Nov 7
 ### Easy
 
@@ -59,4 +59,4 @@ Expected Auxiliary Space: O(1)
 
 ### Constraints: 
 1 <= N <= 103
-1 <= matrix[i][j] <= 106
+1 <= matrix[i][j] <= 10**6

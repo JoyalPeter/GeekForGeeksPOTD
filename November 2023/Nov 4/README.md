@@ -1,4 +1,4 @@
-# Find Transition Point
+# [Find Transition Point](https://www.geeksforgeeks.org/problems/find-transition-point-1587115620/1)
 ## Nov 4 
 ### Easy
 
@@ -37,6 +37,6 @@ Expected Time Complexity: O(Log(N))
 Expected Auxiliary Space: O(1)
 
 ### Constraints:
-1 ≤ N ≤ 105
+1 ≤ N ≤ 10**5
 0 ≤ arr[i] ≤ 1
 

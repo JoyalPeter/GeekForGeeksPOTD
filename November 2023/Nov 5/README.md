@@ -1,4 +1,4 @@
-# Top K Frequent Elements in Array - I
+# [Top K Frequent Elements in Array - I](https://www.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1)
 ## Nov 5
 ### Easy
 
@@ -35,6 +35,6 @@ Expected Time Complexity : O(NlogN)
 Expected Auxiliary Space : O(N)
 
 ### Constraints:
-1 <= N <= 105
-1<= nums[i] <=105
+1 <= N <= 10**5
+1<= nums[i] <=10**5
 1 <= k <= N

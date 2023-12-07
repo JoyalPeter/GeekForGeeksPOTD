@@ -1,4 +1,4 @@
-# Minimum distance between two numbers
+# [Minimum distance between two numbers](https://www.geeksforgeeks.org/problems/minimum-distance-between-two-numbers/1)
 ## Nov 2
 ### Easy
 
@@ -38,6 +38,6 @@ Expected Time Complexity: O(N)
 Expected Auxiliary Space: O(1)
 
 ### Constraints:
-1 <= n <= 105
+1 <= n <= 10**5
 0 <= a[i], x, y <= 105
 x != y

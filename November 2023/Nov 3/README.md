@@ -1,4 +1,4 @@
-# Pythagorean Triplet
+# [Pythagorean Triplet](https://www.geeksforgeeks.org/problems/pythagorean-triplet3018/1)
 ## Nov3
 ### Medium
 
@@ -37,5 +37,5 @@ Expected Time Complexity: O(n+max(Arr[i])2)
 Expected Auxiliary Space: O(max(Arr[i]))
 
 ### Constraints:
-1 <= n <= 105
+1 <= n <= 10**5
 1 <= arr[i] <= 1000

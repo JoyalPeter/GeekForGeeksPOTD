@@ -1,4 +1,4 @@
-# Letters Collection
+# [Letters Collection](https://www.geeksforgeeks.org/problems/c-letters-collection4552/1)
 ## Nov 6
 ### Easy
 
@@ -53,9 +53,9 @@ Expected Time Complexity: O(q)
 Expected Auxiliary Space: O(q)
 
 ### Constraints:
-1 ≤ n, m ≤ 103
-0 ≤ mat[i][j] ≤ 107
-1 ≤ q ≤ 105
+1 ≤ n, m ≤ 10**3
+0 ≤ mat[i][j] ≤ 10**7
+1 ≤ q ≤ 10**5
 1 ≤ q[i][0] ≤ 2
 0 ≤ q[i][1] < n
 0 ≤ q[i][2] < m
