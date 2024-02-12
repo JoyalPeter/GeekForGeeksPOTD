@@ -1,0 +1,23 @@
+def move(arr, n, k, i, j, pathSum):
+    pathSum += arr[i][j]
+    if i == n and j == n:
+        if pathSum == k:
+            return 1
+        else:
+            return 0
+    if pathSum > k:
+        return 0
+    if i < n and j < n:
+        return move(arr, n, k, i + 1, j, pathSum) + move(arr, n, k, i, j + 1, pathSum)
+    else:
+        if i >= n:
+            return move(arr, n, k, i, j + 1, pathSum)
+        else:
+            return move(arr, n, k, i + 1, j, pathSum)
+
+
+def numberOfPath(n, k, arr):
+    return move(arr, n - 1, k, 0, 0, 0)
+
+
+print(numberOfPath(3, 12, [[1, 2, 3], [4, 6, 5], [3, 2, 1]]))
